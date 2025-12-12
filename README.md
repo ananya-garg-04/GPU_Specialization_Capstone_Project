@@ -48,9 +48,6 @@ Contributions to FFTAccelerator are welcome. Please fork the repository, make yo
 #### Data Sources
 This project does not require any external data sources but is designed to work with synthetic data generated within the application for demonstration purposes.
 
-#### Authors
-- Annika Sinha(https://github.com/annikaasinha) - Initial development and design.
-
  [FFTAccelerator Demonstration Video](https://youtube.com)
 
 #### Proof of Execution
